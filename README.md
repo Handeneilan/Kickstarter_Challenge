@@ -18,9 +18,13 @@ To be able to get the correct information for outcome based on launch date. I ha
 
 In the following step I created another colum and called it ‘years’ and using the =YEAR()formula I gathered the launch year data from ‘date created’ column. After that I created a pivot table  to display the launch mont, agains the amount of successful, failed and canceled theather projects. To visualize it, I used line chart. 
 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/104239978/182502107-f6be0f73-82b4-4234-97af-6c8138c8d52c.png)
+
 ### Analysis of Outcomes Based on Goals
 
 I created a new table and checked different goal amounts to see if there any effect on percentage of failed, canceled or succeesful projects. I used line chart.
+
+![outcomes based on goals](https://user-images.githubusercontent.com/104239978/182502058-78785c99-7297-4436-9040-18765317cbf2.png)
 
 ### Challenges and Difficulties Encountered
 
